@@ -4,7 +4,7 @@
 ## Description
 Far-field home audio data captured by mobile phone microphone array, 998 people participate in voice record, with gender ratio of 1:1 between male and female; the recorded text covers multiple application scenes; the data set can be used for voice enhancement and automatic automatic speech recognition in home scenes.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/230?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/230?source=Github
 
 
 ## Format
